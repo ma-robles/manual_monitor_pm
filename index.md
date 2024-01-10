@@ -51,3 +51,26 @@ Nota: para mas detalles sobre cómo instalar Thonny y el driver vea el [manual T
 8. Si no hay conexión, revise los datos ingresados. Presione el boton STOP en la ventana de Thonny y repita el procedimiento desde el paso 4.
 
 nota: El sistema cuenta con un Timer  de reinicio en caso de que el programa se detenga. Debe realizar el procedimiento antes de que el tiempo del timer se termine o comenzará a correr el programa y no le permitirá guardar sus modificaciones. Si el módulo se reinicia antes de que pueda guardar sus cambios, presione el boton STOP de Thonny, espere a ver el promt (>>>) e intente de nuevo. La duración actual del timer es de 10 minutos.
+
+## Instalación
+
+### Sujeción
+El monitor está pensado para fijarse a un poste vertical mediante una abrazadera tipo "U" a la placa de sujeción.
+![sujeta](/manual_monitor_pm/assets/img/instala_alimenta.png)
+
+nota: la placa de sujeción puede tener las perforaciones hacia arriba del monitor o hacia abajo, dependiendo de la versión. En cualquier caso, la placa de sujeción se debe colocar en la parte superior del equipo.
+
+### Alimentación
+El módulo se alimenta mediante el puerto micro-USB que se encuentra en la parte inferior del abrigo meteorológico. Se puede utilizar un cargador o un regulador a 5V  con cable micro-USB
+
+![alimentacion](/manual_monitor_pm/assets/img/instala_alimenta.png)
+
+### Ejemplo
+A continuación se muestra una imagen de ejemplo en la que se monta un prototipo en un tripie. En la parte inferior del tripié se instaló una caja para intemperie en la que se encuentra un cargador conectado a una extensión eléctrica que a su vez se encuentra conectado a la línea eléctrica.
+
+![instala](/manual_monitor_pm/assets/img/instala_completa.png)
+
+## Ensamblado/des-ensamblado
+
+El monitor se envia totalmente ensamblado y listo para colocarse en un tubo vertical. A continuación se describen los pasos a seguir en caso de que requiera desarmarlo.
+
