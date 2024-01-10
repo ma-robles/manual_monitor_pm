@@ -12,4 +12,4 @@ layout: default
 ## Partes
 A continuación se muestran las partes
 
-![partes](/assets/img/partes.png)
+![partes](manual_monitor_pm/assets/img/partes.png)
