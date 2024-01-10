@@ -26,7 +26,7 @@ Para que el monitor pueda sincronizar la hora y fecha, se debe conectar a intern
 - Computadora con el software Thonny y el driver de la tarjera instalados
 - Cable USB a micro-USB
 
-Nota: para mas detalles sobre cómo instalar Thonny y el driver vea el ![manual Thonny](/manual_thonny/) y ![Manual driver ESP32](/manual_driverESP32).
+Nota: para mas detalles sobre cómo instalar Thonny y el driver vea el [manual Thonny](/manual_thonny/) y [Manual driver ESP32](/manual_driverESP32).
 
 ### Procedimiento
 1. Abrir Thonny
