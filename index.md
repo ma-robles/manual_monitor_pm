@@ -1,8 +1,8 @@
 ---
-title: Manual Template
+title: Monitor de Partículas
+description: Manual de usuario
 author: Miguel Ángel Robles R.
 email: "miguel.robles@atmosfera.unam.mx"
-list_title: Título
 layout: default
 ---
 
@@ -12,4 +12,4 @@ layout: default
 ## Partes
 A continuación se muestran las partes
 
-![pista 0](https://ma-robles.github.io/robotica_2024-1/assets/img/pista_0.jpg)
+![partes](/assets/img/partes.png)
