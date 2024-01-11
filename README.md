@@ -1,2 +1,2 @@
-# template_manual
-template para manuales
+# Manual para monitor de partículas
+Repositorio del manual
