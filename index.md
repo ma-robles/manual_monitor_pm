@@ -56,7 +56,7 @@ nota: El sistema cuenta con un Timer  de reinicio en caso de que el programa se 
 
 ### Sujeción
 El monitor está pensado para fijarse a un poste vertical mediante una abrazadera tipo "U" a la placa de sujeción.
-![sujeta](/manual_monitor_pm/assets/img/instala_alimenta.png)
+![sujeta](/manual_monitor_pm/assets/img/instala_sujeta.png)
 
 nota: la placa de sujeción puede tener las perforaciones hacia arriba del monitor o hacia abajo, dependiendo de la versión. En cualquier caso, la placa de sujeción se debe colocar en la parte superior del equipo.
 
