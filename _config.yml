@@ -5,8 +5,9 @@ twitter_username: miguelrsrn
 github_username:  ma-robles
 instagram_username: mi4rob
 email: miguel.robles@atmosfera.unam.mx
-#repo: https://github.com/ma-robles/template_manual/
+url: "https://ma-robles.github.io"
+baseurl: "/manual_monitor_pm"
 lang: "es-mx"
-show_downloads: true
+show_downloads: false
 downloads:
   pdf_url: http://example.com/download.pdf

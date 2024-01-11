@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" type="image/svg" href=" {{ '/assets/img/dev_icon.svg' | prepend: site.baseurl }}">
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -42,7 +43,7 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-          <p> Administrador: <a href="mailto:{{ site.email }}">{{ site.author_name }}</a></p>
+        <p> <img src="{{ '/assets/img/email.svg' | prepend: site.baseurl  }}" />  <a href="mailto:{{ site.email }}">{{ site.author_name }}</a></p>
         {% endif %}
       </footer>
     </div>
