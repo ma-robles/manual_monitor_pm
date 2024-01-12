@@ -1,4 +1,5 @@
-title: Manual de Usuario
+title: Monitor de Partículas
+description: Manual de usuario
 theme: jekyll-theme-leap-day
 author_name: Miguel Angel Robles R
 twitter_username: miguelrsrn
@@ -9,5 +10,26 @@ url: "https://ma-robles.github.io"
 baseurl: "/manual_monitor_pm"
 lang: "es-mx"
 show_downloads: false
-downloads:
+dowloads:
   pdf_url: http://example.com/download.pdf
+sections:
+  - inicio:
+    name: "Inicio"
+    url: "index"
+
+  - partes:
+    name: "Partes"
+    url: "partes"
+
+  - config:
+    name: "Configuración"
+    url: "config"
+
+  - Instala:
+    name: "Instalación"
+    url: "instala"
+
+  - ensambla:
+    name: "Ensamblado"
+    url: "ensambla"
+
