@@ -500,6 +500,11 @@ footer {
   }
   #banner{
     display:none;
+  }
+  section {
+    margin-top: 10px;
+  }
+
 }
 
 @media print, screen and (max-height: 680px) {
