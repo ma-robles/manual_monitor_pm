@@ -1,11 +1,7 @@
 /*
+based on
 Leap Day for GitHub Pages
-by Matt Graham
 */
-
-@import "normalize";
-@import "fonts";
-@import "rouge-base16-dark";
 
 body {
   font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -200,7 +196,6 @@ header {
   z-index: 100;
   left:0;
   right:50%;
-  height: 50px;
   margin-right:-382px;
   position: fixed;
   top: 115px;
@@ -241,6 +236,15 @@ header {
     line-height:14px;
     font-size:14px;
     background-color: #FFE788;
+  }
+
+  .titles_menu {
+          margin: 10px;
+          padding: 1em;
+  }
+  .div_menu {
+          display: flex;
+          flex-wrap: wrap;
   }
 
   .downloads {
@@ -402,7 +406,7 @@ footer {
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:20px 0;
+    padding:20px 15px;
     margin: 190px auto 20px;
     max-width: 600px;
   }
@@ -452,7 +456,6 @@ footer {
   }
 
   section {
-    margin-top: 130px;
     margin-bottom: 0px;
     width: auto;
   }

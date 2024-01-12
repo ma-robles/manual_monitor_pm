@@ -19,7 +19,6 @@
 
       <div id="banner">
 
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Descargar:</span>
@@ -28,23 +27,23 @@
             </ul>
           </div>
         {% endif %}
-      </div><!-- end banner -->
 
-    <div class="wrapper">
-      <nav>
-        <ul>
+      <div class="div_menu">
       {%- for section in site.sections -%}
-      <li>
+      <span>
         <h3>
-          <a class="post-link" href="{{ section.url | append: '.html'  }}">
+          <a class="titles_menu" href="{{ section.url | append: '.html'  }}">
             {{ section.name }}
           </a>
         </h3>
-      </li>
+      </span>
       {%- endfor -%}
 
-        </ul>
-      </nav>
+      </div>
+
+      </div><!-- end banner -->
+
+    <div class="wrapper">
       <section>
         {{ content }}
 
@@ -53,6 +52,7 @@
         {% if site.github.is_project_page %}
         <p> <img src="{{ '/assets/img/email.svg' | prepend: site.baseurl  }}" />  <a href="mailto:{{ site.email }}">{{ site.author_name }}</a></p>
         {% endif %}
+        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
       </footer>
     </div>
   </body>
