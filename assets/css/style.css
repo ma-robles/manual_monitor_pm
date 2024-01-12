@@ -503,8 +503,8 @@ footer {
   }
   section {
     margin-top: 10px;
+    border: none;
   }
-
 }
 
 @media print, screen and (max-height: 680px) {
