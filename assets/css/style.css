@@ -484,7 +484,7 @@ footer {
     }
   }
   section {
-   /* margin-top: 50px;*/
+    margin-top: 150px;
   }
 
   header ul {
@@ -498,6 +498,8 @@ footer {
     font-size:12pt;
     color:#444;
   }
+  #banner{
+    display:none;
 }
 
 @media print, screen and (max-height: 680px) {
