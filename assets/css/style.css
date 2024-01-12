@@ -504,6 +504,7 @@ footer {
   section {
     margin-top: 10px;
     border: none;
+    box-shadow: none;
   }
 }
 
