@@ -361,7 +361,6 @@ nav {
 
 footer {
   width: 250px;
-  position: fixed;
   left:50px;
   bottom:20px;
   line-height: 16px;
@@ -387,7 +386,7 @@ footer {
     margin:0;
   }
 
-  header, section, footer {
+  header, section {
     float:none;
 
     h1 {
@@ -422,13 +421,6 @@ footer {
     max-width: 600px;
   }
 
-  footer{
-    margin: 20px auto;
-    position: relative;
-    left:auto;
-    bottom:auto;
-    width:auto;
-    }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -520,22 +512,8 @@ footer {
 
 @media print, screen and (max-height: 680px) {
 
-  footer {
-    margin: 20px auto;
-    position: relative;
-    left:auto;
-    bottom:auto;
-    width:auto;
-  }
 }
 
 @media print, screen and (max-height: 480px) {
 
-  footer {
-    margin: 20px auto;
-    position: relative;
-    left:auto;
-    bottom:auto;
-    width:auto;
-  }
 }
